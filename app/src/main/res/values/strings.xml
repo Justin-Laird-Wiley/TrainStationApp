@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WalkingTourApp</string>
+
+
+    <string name="list_1">List One</string>
+    <string name="list_2">List Two</string>
+    <string name="list_3">List Three</string>
+    <string name="list_4">List Four</string>
+
+
+</resources>
